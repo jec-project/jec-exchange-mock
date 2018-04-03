@@ -12,11 +12,15 @@
  * Please maintain package and alphabetical order!
  */
 
+ //--> com/jec/exchangemock/builder
+export {JsletContextMockBuilder} from "./exchangemock/builder/JsletContextMockBuilder";
  //--> com/jec/exchangemock/jslet/connectors
 export {JsletConnector} from "./exchangemock/jslet/connectors/JsletConnector";
  //--> com/jec/exchangemock/jslet/decorators
 export {WebJsletDecorator} from "./exchangemock/jslet/decorators/WebJsletDecorator";
 //--> com/jec/exchangemock/jslet
 export {JsletMockContextManager} from "./exchangemock/jslet/JsletMockContextManager";
+//--> com/jec/exchangemock/jslet
+export {JsletContextMock} from "./exchangemock/mock/JsletContextMock";
 //--> com/jec/exchangemock
 export {JsletMock} from "./exchangemock/JsletMock";

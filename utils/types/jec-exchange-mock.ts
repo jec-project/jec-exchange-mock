@@ -7,8 +7,9 @@
 
 declare module "jec-exchange-mock" {
 
-import { WebJsletParams } from "jec-exchange";
+import { WebJsletParams, JsletContext, Jslet, SecurityContext, SessionContext, 
+         HttpRequest, HttpResponse, SessionError, HttpJslet } from "jec-exchange";
 import { Singleton, Decorator, AbstractDecoratorConnector, Interface,
-         JcadContext } from "jec-commons";
+         JcadContext, Logger } from "jec-commons";
 
 /*PLACEHOLDER*/}
