@@ -65,5 +65,9 @@ class JsletContextMockBuilder {
         }
         return mock;
     }
+    static create() {
+        const builder = new JsletContextMockBuilder();
+        return builder;
+    }
 }
 exports.JsletContextMockBuilder = JsletContextMockBuilder;

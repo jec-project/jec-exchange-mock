@@ -195,4 +195,15 @@ export class JsletContextMockBuilder {
     }
     return mock;
   }
+
+  /**
+   * Creates and returns a new <code>JsletContextMockBuilder</code> instance.
+   * 
+   * @return {JsletContextMockBuilder} a new
+   *                              <code>JsletContextMockBuilder</code> instance.
+   */
+  public static create():JsletContextMockBuilder {
+    const builder:JsletContextMockBuilder = new JsletContextMockBuilder();
+    return builder;
+  }
 }
