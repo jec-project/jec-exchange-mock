@@ -22,5 +22,6 @@ export {WebJsletDecorator} from "./exchangemock/jslet/decorators/WebJsletDecorat
 export {JsletMockContextManager} from "./exchangemock/jslet/JsletMockContextManager";
 //--> com/jec/exchangemock/jslet
 export {JsletContextMock} from "./exchangemock/mock/JsletContextMock";
+export {HttpRequestMock} from "./exchangemock/mock/HttpRequestMock";
 //--> com/jec/exchangemock
 export {JsletMock} from "./exchangemock/JsletMock";

@@ -10,5 +10,7 @@ var JsletMockContextManager_1 = require("./exchangemock/jslet/JsletMockContextMa
 exports.JsletMockContextManager = JsletMockContextManager_1.JsletMockContextManager;
 var JsletContextMock_1 = require("./exchangemock/mock/JsletContextMock");
 exports.JsletContextMock = JsletContextMock_1.JsletContextMock;
+var HttpRequestMock_1 = require("./exchangemock/mock/HttpRequestMock");
+exports.HttpRequestMock = HttpRequestMock_1.HttpRequestMock;
 var JsletMock_1 = require("./exchangemock/JsletMock");
 exports.JsletMock = JsletMock_1.JsletMock;
