@@ -1,6 +1,6 @@
 # JEC EXCHANGE-MOCK Project
 
-JEC EXCHANGE is a [JavaScript Entreprise Container][jec-url] mocking library that provides functionalities for testing objects built over the JEC Exchange API, including `@WebJslets` and `@Bootstrap` decorators.
+JEC EXCHANGE is a [JavaScript Enterprise Container][jec-url] mocking library that provides functionalities for testing objects built over the JEC Exchange API, including `@WebJslets` and `@Bootstrap` decorators.
 
 [![][jec-logo]][jec-url]
 
@@ -98,5 +98,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[jec-url]: https://github.com/pechemann/JEC
+[jec-url]: http://jecproject.org
 [jec-logo]: https://raw.githubusercontent.com/pechemann/JEC/master/assets/jec-logos/jec-logo.png
