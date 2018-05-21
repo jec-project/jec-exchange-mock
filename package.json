@@ -1,6 +1,6 @@
 {
   "name": "jec-exchange-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JEC EXCHANGE-MOCK - Mocking library for testing objects built over the JEC Exchange API, such as the @WebJslet decorator.",
   "main": "dist/com/jec/jec-exchange-mock-index",
   "types": "types/jec-exchange-mock.d.ts",
